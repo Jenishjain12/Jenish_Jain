@@ -1,13 +1,86 @@
-<img src="Banner_Github.png" alt="GitHub Banner" width="100%" />
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="Banner_Github.png" alt="GitHub Banner" width="100%">
+</p>
 
-# 👋 Hello World!, I'm Jenish, a passionate student and developer skilled in C and Python 👋🏼:
- <br>🚀 I'm exploring the world of Artificial Intelligence, with hands-on experience in multiple projects.<br>🧠 I have a budding interest in Quantum Computing and love blending theory with real-world applications.<br>🎯 Constantly learning, building, and pushing boundaries in tech!<br>My Portfolio - <a href="URL">https://www.canva.com/design/DAGmXdAGFNk/jI5uIdK-P9Q6R81wFIETkw/view?utm_content=DAGmXdAGFNk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1618a7cafe</a><br><br>
+<!-- Profile Photo and Introduction -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-username" alt="Jenish Jain" width="150" style="border-radius: 50%;">
+</p>
 
+<h1 align="center">Hi 👋, I'm Jenish Jain</h1>
+<p align="center">
+  🚀 Passionate Student | Aspiring AI Researcher | Quantum Computing Enthusiast | Tech Visionary  
+</p>
 
-# 💻 Tech Stack:
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <a href="https://www.canva.com/design/DAGmXdAGFNk/jI5uIdK-P9Q6R81wFIETkw/view?utm_content=DAGmXdAGFNk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1618a7cafe" target="_blank">
+    🔗 Portfolio
+  </a> |
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">💼 LinkedIn</a> |
+  <a href="mailto:your-email@example.com">📧 Mail</a>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 High school student diving deep into **C, Python**, and **AI**
+- 🤖 Building AI projects that matter — blending **theory** with **real-world impact**
+- 🧪 Researching concepts like **Quantum Computing** & **Spacetime Medium Theory**
+- 🌐 Founder of **Reboot India** – a mission to innovate and transform the nation
+- 🛠️ Creator of **TaxYatra** – a multilingual AI CA assistant for Indian citizens
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,django,html,css,js,react,tensorflow,pytorch,numpy,pandas,matplotlib,postgres,mongodb,git,github,figma,wordpress,firebase,netlify,aws,gcp,vscode" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+## 🎥 Featured Gifs & Aesthetic
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="AI Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Quantum Vibes" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+> I'm always open to exciting ideas, collaborations, or just a good tech chat. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/jenish-jain-75ba18295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jenishvkj2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jenishjain12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> “Code is the language of reality. Let’s rewrite the world line by line.” – Jenish Jain ✨
+
