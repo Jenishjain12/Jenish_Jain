@@ -5,7 +5,7 @@
 
 <!-- Profile Photo and Introduction -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Jenishjain12" alt="Jenish Jain" width="150" style="border-radius: 50%;">
+  <img src="Logo.png" alt="Jenish Jain" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jenish Jain</h1>
