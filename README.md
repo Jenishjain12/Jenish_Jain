@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="Banner_GitHub.png" alt="GitHub Banner" width="100%">
+  <img src="Banner_GitHub.jpg" alt="GitHub Banner" width="100%">
 </p>
 
 <!-- Profile Photo and Introduction -->
