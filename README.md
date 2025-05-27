@@ -17,7 +17,7 @@
   <a href="https://www.canva.com/design/DAGmXdAGFNk/jI5uIdK-P9Q6R81wFIETkw/view?utm_content=DAGmXdAGFNk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1618a7cafe" target="_blank">
     🔗 Portfolio
   </a> |
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/jenish-jain-75ba18295n/" target="_blank">💼 LinkedIn</a> |
   <a href="mailto:your-email@example.com">📧 Mail</a>
 </p>
 
