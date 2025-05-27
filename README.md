@@ -1,4 +1,4 @@
-<img src="Banner_Jenish_GitHub.png" alt="GitHub Banner" width="100%" />
+<img src="Banner_Github.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hello World!, I'm Jenish, a passionate student and developer skilled in C and Python 👋🏼:
  <br>🚀 I'm exploring the world of Artificial Intelligence, with hands-on experience in multiple projects.<br>🧠 I have a budding interest in Quantum Computing and love blending theory with real-world applications.<br>🎯 Constantly learning, building, and pushing boundaries in tech!<br>My Portfolio - <a href="URL">https://www.canva.com/design/DAGmXdAGFNk/jI5uIdK-P9Q6R81wFIETkw/view?utm_content=DAGmXdAGFNk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1618a7cafe</a><br><br>
