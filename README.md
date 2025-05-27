@@ -27,10 +27,8 @@
 
 - 🎓 High school student diving deep into **C, Python**, and **AI**
 - 🤖 Building AI projects that matter — blending **theory** with **real-world impact**
-- 🧪 Researching concepts like **Quantum Computing** & **Spacetime Medium Theory**
-- 🌐 Founder of **Reboot India** – a mission to innovate and transform the nation
-- 🛠️ Creator of **TaxYatra** – a multilingual AI CA assistant for Indian citizens
-
+- 🧠 I have a budding interest in Quantum Computing and love blending theory with real-world applications.
+- 🎯 Constantly learning, building, and pushing boundaries in tech!
 ---
 
 ## 💻 Tech Stack & Tools
