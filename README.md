@@ -18,7 +18,7 @@
     🔗 Portfolio
   </a> |
   <a href="https://www.linkedin.com/in/jenish-jain-75ba18295/n" target="_blank">💼 LinkedIn</a> |
-  <a href="mailto:your-email@example.com">📧 Mail</a>
+  <a href="mailto:jenishvkj2007@gmail.com">📧 Mail</a>
 </p>
 
 ---
