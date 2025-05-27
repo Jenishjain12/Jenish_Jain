@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="AI Coding" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Quantum Vibes" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pveGZzNnVydWt1bWVuZDRqdjV6a2Y2dG0wcjNmeTI4aW4xbWdhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="45%" alt="Quantum Vibes" />
 </p>
 
 ---
