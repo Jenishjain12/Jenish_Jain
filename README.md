@@ -4,7 +4,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="The Founder_s Studio (2).png" alt="Jenish Jain — GitHub Banner" width="100%">
+  <img src="Banner.png" alt="Jenish Jain — GitHub Banner" width="100%">
 </p>
 
 <!-- Identity -->
