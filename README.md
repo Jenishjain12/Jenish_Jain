@@ -4,7 +4,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="Banner.png" alt="Jenish Jain — GitHub Banner" width="100%">
+  <img src="" alt="Jenish Jain — GitHub Banner" width="100%">
 </p>
 
 <!-- Identity -->
