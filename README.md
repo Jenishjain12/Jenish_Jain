@@ -1,61 +1,65 @@
-<!-- =========================================================
-     JENISH JAIN — GITHUB PROFILE README
-     ========================================================= -->
-
 <h1 align="center">Jenish Jain</h1>
 
 <p align="center">
-  <strong>Computer Science Engineer • AI Researcher • Systems Builder</strong>
+  Visualizing linear algebra & quantum state concepts in 3D · experimenting with AI agents
 </p>
 
 <p align="center">
-  Bridging rigorous academic theory with high-performance engineering to build resilient products.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jenish-jain-75ba18295/">LinkedIn</a> •
-  <a href="mailto:jenishvkj2007@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jenish-jain-75ba18295/">LinkedIn</a>
+  ·
+  <a href="mailto:jenishvkj2007@gmail.com">Email</a>
+  ·
   <a href="https://github.com/Jenishjain12">GitHub</a>
 </p>
 
 ---
 
-## 🏛 The Academic & Engineering Foundation
+### About
 
-I am a Computer Science Engineering student with a deep foundation in computational mathematics and advanced physics. I don't just consume standard curriculum; I deconstruct systems. My work is driven by translating complex theoretical models—from the principles of physical optics and electromagnetic theory to biological computation—into tangible, executable code.
+CS engineering student. I spend most of my time making abstract math intuitive — building 3D visualizers for vector spaces, eigenvectors, linear transformations, and quantum state vectors — and I'm now poking at AI agent workflows.
 
-## 🚀 Shipping & Architecting
-
-I actively apply my academic research to real-world computational constraints and competitive environments. Currently focused on:
-
-*   **Public Infrastructure (SIH National):** Selected as a national finalist for the Smart India Hackathon. Currently architecting and pitching a robust Minimum Viable Product (MVP) to resolve systemic technical and UI/UX friction across Indian government web platforms.
-*   **FinTech Systems:** Developing a high-performance personal finance and expense tracking engine, optimizing for data integrity, algorithmic efficiency, and seamless user experience.
-*   **AI & Neural Architecture:** Researching the intersection of biological systems and code. Deeply exploring continuous learning mechanisms, network memory constraints, and solving the plasticity-stability dilemma in modern machine learning models.
+I'm early. No shipped products, no team, no funding — just consistent hands-on building in a niche most people my stage don't touch. This profile is meant to reflect that honestly, not oversell it.
 
 ---
 
-## ⚙️ Engineering Philosophy
+### What I'm building
 
-> **Design like a Porsche 911 GT3. Engineer with the precision of applied physics.**
+**[project-hub](https://github.com/Jenishjain12/project-hub)** — a growing collection of Python scripts that turn linear algebra and quantum computing concepts into interactive 3D visuals:
 
-Elite engineering requires both mathematical rigor and design precision. Whether I am structuring a backend database schema, mapping physical principles to software logic, or defining the cinematic visual grading of a frontend UI, I build for scale, performance, and aesthetic excellence.
+- 3D vector spaces, bases, and vector fields for linear operators
+- Eigenvectors and rank deficiency, visualized in 3D
+- Matrix transformations (including a cube transform and an interactive matrix explorer)
+- Quantum state vectors on the Bloch sphere
+- Systems of linear equations as intersecting planes
+
+**JARVIS AI Assistant** — an early-stage AI assistant workflow, currently in the design/prototyping stage.
 
 ---
 
-## 🛠 Core Competencies
+### Stack
 
-```text
-Intelligence & Systems
-├── Neural Network Architecture
-├── Continuous Learning Models
-└── Generative AI Implementation
+`Python` · `NumPy` · `Matplotlib` · `React` · `TensorFlow` / `PyTorch` (learning) · `Git`
 
-Software & Infrastructure
-├── Full-Stack Product Development
-├── Financial Systems Engineering
-└── Scalable Automation Workflows
+---
 
-Theoretical Foundations
-├── Applied Mathematics
-├── Computational Physics
-└── Algorithmic Problem Solving
+### Currently
+
+- Deepening the linear algebra visualizer suite in `project-hub`
+- Learning data structures & algorithms properly, not just syntax
+- Reading into quantum computing fundamentals
+- Figuring out what the JARVIS assistant actually becomes
+
+---
+
+### Let's talk
+
+If you're into visual math, quantum computing, or AI agents — or you just want to compare notes as a fellow early-stage builder — reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jenish-jain-75ba18295/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jenishvkj2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
