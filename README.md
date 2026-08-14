@@ -2,10 +2,10 @@
      JENISH JAIN — GITHUB PROFILE README
      ========================================================= -->
 
-<!-- Hero Banner -->
-<p align="center">
+ <!-- Hero Banner -->
+<!-- <p align="center">
   <img src="" alt="Jenish Jain — GitHub Banner" width="100%">
-</p>
+</p> -->
 
 <!-- Identity -->
 <h1 align="center">Jenish Jain</h1>
