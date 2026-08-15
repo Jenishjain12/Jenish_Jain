@@ -24,7 +24,7 @@
     LinkedIn
   </a>
   •
-  <a href="mailto:jenishvkj2007@gmail.com">
+  <a href="mailto:jenishjain78@gmail.com">
     Email
   </a>
   •
