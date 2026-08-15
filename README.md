@@ -128,31 +128,6 @@ exploring:
   - Intelligent Systems
   - Emerging Computing Paradigms
 ```
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jenishjain12&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Jenishjain12&hide_border=true&theme=transparent"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenishjain12&layout=compact&hide_border=true&theme=transparent"
-    width="42%"
-  />
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
